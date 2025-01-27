@@ -42,5 +42,5 @@ demo4.addEventListener("click",()=>{
     speech.text =demo3
     speechSynthesis.speak(speech)
     
-    
+
 })
